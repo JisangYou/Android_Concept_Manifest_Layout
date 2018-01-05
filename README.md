@@ -110,4 +110,4 @@ ActivityManagerService 에 접근할 수 있도록 하는 통로 역할
 - 플랫폼 특성상 너무나 많은 내용이 있는 관계로 틈틈히 공식사이트에 가서 문서를 읽어본다.
 
 ## Output
-- 생략
+![kakaotalk_20170912_230217117](https://user-images.githubusercontent.com/31605792/30330290-a7c92768-980f-11e7-8494-3c870c661c73.jpg)
