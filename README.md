@@ -58,28 +58,44 @@ ActivityManagerService 에 접근할 수 있도록 하는 통로 역할
 
 - 뷰 그룹 아래 SubClass로 Layout클래스가 있음.
 
-- LinearLayout
+- TODO 다양한 레이아웃 찾아서 ▽ 에 정리하기
+
+#### LinearLayout
+
 ![LinearLayout](http://cfile8.uf.tistory.com/image/231D1039579842EA1167A1)
+
 - 가장 기본적인 레이아웃
 - orientation이라는 속성을 가지고 있어 가로,세로를 설정 가능
 - weight 같은 가중치를 주는 속성을 유용하게 사용할 수 있음.
+- __TODO 레이아웃별 고유한 기능 넣기__
 
-- RelativeLayout
+#### RelativeLayout
+
 ![RelativeLayout](http://cfile22.uf.tistory.com/image/26172D39579842F517DF63)
+
 - 상대적인 기준에 따라 배치하는 레이아웃
+- __TODO 레이아웃별 고유한 기능 넣기__
 
+#### FrameLayout
 
-- FrameLayout
 ![FrameLayout](http://cfile5.uf.tistory.com/image/24147B39579842E9191D80)
+
 - 위젯들을 포개는 방식으로 배치하는 레이아웃
+- __TODO 레이아웃별 고유한 기능 넣기__
 
-- TableLayout
+#### TableLayout
+
 ![TabLayout](http://cfile1.uf.tistory.com/image/240C6E39579842F522DEBD)
-- 표 형태의 레이아웃
 
-- ConstraintLayout
+- 표 형태의 레이아웃
+- __TODO 레이아웃별 고유한 기능 넣기__
+
+#### ConstraintLayout
+
 ![ConstraintLayout](http://leaks.wanari.com/wp-content/uploads/2016/05/editor-1.png)
+
 - 보이는 대로, 직관적으로 배치할 수 있는 형태의 레이아웃
+- __TODO 레이아웃별 고유한 기능 넣기__
 
 ### 안드로이드 4대 컴포넌트
 
