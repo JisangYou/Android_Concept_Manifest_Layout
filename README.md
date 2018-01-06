@@ -105,7 +105,9 @@ ActivityManagerService 에 접근할 수 있도록 하는 통로 역할
 - 서비스(Service) : 백그라운드에서 동작하는 컴포넌트
 - 컨텐츠 프로바이더(Contents Provider) : 응용 프로그램 간의(앱과 앱) 데이터를 상호 공유하기 위한 컴포넌트
 - 브로드캐스트 리시버(Broadcast Receiver) : 단말기에서 발생하는 이벤트 수신을 위한 컴포넌트 (네트워크 상태, 배터리 상태, SMS수신, 스크린 꺼짐.. 등)
+- ※ 인텐트(Intent) : 어플리케이션 구성요소(컴포넌트) 간에 작업 수행을 위한 정보를 전달하는 역할
 
+![Intent](http://cfile6.uf.tistory.com/image/035BD84A50D30922012F66)
 
 
 #### 출처: http://arabiannight.tistory.com/entry/272 [아라비안나이트]
